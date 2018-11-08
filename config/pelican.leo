@@ -71,6 +71,12 @@
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit week1.md</vh></v>
 <v t="leo.20181109054203.1"><vh>@edit week2.md</vh></v>
+<v t="leo.20181109071507.1"><vh>@edit week3.md</vh></v>
+<v t="leo.20181109071509.1"><vh>@edit week4.md</vh></v>
+<v t="leo.20181109071511.1"><vh>@edit week5.md</vh></v>
+<v t="leo.20181109071626.1"><vh>@edit week6.md</vh></v>
+<v t="leo.20181109071628.1"><vh>@edit week7.md</vh></v>
+<v t="leo.20181109071641.1"><vh>@edit week8.md</vh></v>
 </v>
 </v>
 </v>
