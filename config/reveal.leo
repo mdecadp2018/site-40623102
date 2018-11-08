@@ -27,8 +27,26 @@
 <v t="leo.20181026082547.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>w1</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109063136.1" a="E"><vh>w2</vh>
+<v t="leo.20181109063136.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109063139.1" a="E"><vh>w3</vh>
+<v t="leo.20181109063139.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109063148.1" a="E"><vh>w4</vh>
+<v t="leo.20181109063148.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109063150.1" a="E"><vh>w5</vh>
+<v t="leo.20181109063150.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109063152.1" a="E"><vh>w6</vh>
+<v t="leo.20181109063152.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109062902.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109062902.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -149,14 +167,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12">#Week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
+&lt;iframe src="https://www.youtube.com/watch?v=SZFJdUOnfx8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -342,6 +356,109 @@ make.start()
 <t tx="leo.20181026082547.2"># week1
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109062902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109062902.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20181109063136.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063136.2">#Week2
+
+e學習管理投影片與網誌
+&lt;iframe src="https://www.youtube.com/watch?v=jVS4RLBVIw8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063139.2">#Week3
+
+git功能基本操作
+git status： 展示目前狀態
+git branch 分支名,：創建新分支
+git checkout 分支名 ：轉換分支
+git merge 分支名 ：合併分支
+git log： 查看版次
+git clone  ：從遠端倉儲複製資料到指定資料夾
+git add .   ：提交所有修改放到暫存區
+git commit -m： 暫存區資料提交到分支
+git push ：   資料推送到遠端
+&lt;iframe src="https://www.youtube.com/watch?v=Y8rXs3Ag_yU" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063148.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063148.2">#Week4
+
+倉儲中reveal,pelican與cmsimfly管理
+Onshape Week1 操作說明
+&lt;iframe src="https://youtu.be/cwdKVDOBPCw" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063150.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063150.2">#Week5
+
+列出使用python版次與關鍵字，如何在網頁上, 將 Brython 執行過的程式, 以 save as 的方式存成近端 .py 檔案.
+&lt;iframe src="https://youtu.be/Cpc1PcQeVSg" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063152.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063152.2">#Week6
+
+更新 lab-booking-cdlab 倉儲內容說明管理內容流程，如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
 
 </t>
 </tnodes>
